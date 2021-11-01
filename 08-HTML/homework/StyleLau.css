@@ -1,0 +1,9 @@
+h1 {color:salmon;} 
+img {width:400px; 
+    height:250px;}
+#thirdDiv {height:600px; 
+           width:500px;
+           background-color:sandybrown; 
+           padding:50px; border:10px outset rgb(160, 46, 4);}
+#spanId {font-size:18px; 
+         margin:50px;}
