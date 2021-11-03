@@ -1,0 +1,25 @@
+Tarea 
+En un archivo de texto separado que debes crear, 
+escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años.
+ Hacer esto te ayudará a descubrir rápidamente cualquier
+ agujero en tu comprensión.
+
+1) for: Un For es una herramienta que se utiliza cuando queremos 
+        que la maquina haga una tarea que es repetitiva y que de 
+        ser hecha por nosotros nos haria hacer una y otra vez la 
+        misma acción.
+        Por ejemplo: Cuando ponene una plana de 100 lineas. 
+        En vez de escribir 100 veces la plana, hariamos un programa 
+        que reciba una sola vez la plana y luego la replique 100 veces. 
+2) &&, ||, !: 
+        Son simbolos que representan expresiones:
+        a) && repsenta (y): Es la union de las cosas, como una suma.
+                 Si buscamos un ejemplo seria decir tu && yo = tu y yo. 
+        b) || representa (o): Es elegir una cosa, como una resta. 
+                Si buscamos un ejemplo seria decir: Quieres jugo || agua = 
+                Quieres jugo o agua.
+        c) ! represnta (no): Este simbolo nos muetra lo contrario de todo.
+                Si decimos si pero ponemos el simbolo !si, entonces seria no.
+                Es como jugar a decir lo contrario de todo. 
+                Si buscamos ejemplos seria si = no; 1 = -1. 
