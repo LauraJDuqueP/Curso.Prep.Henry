@@ -10,7 +10,13 @@ function deObjetoAmatriz(objeto){
       C: 3
     }) ➞ [["D", 1], ["B", 2], ["C", 3]]*/
   //Escribe tu código aquí
-}
+  var arr=[];
+  for(let clave in objeto){
+    arr.push([clave,objeto[clave]]);
+  }
+
+  }
+
 
 
 function numberOfCharacters(string) {
