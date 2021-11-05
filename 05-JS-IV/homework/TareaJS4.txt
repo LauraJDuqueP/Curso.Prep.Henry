@@ -1,0 +1,13 @@
+Tarea
+
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los 
+siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos= Es una herramienta que me permite acumular cosas como si fuera una lista y darle un valor a cada cosa. 
+	* Propiedades= una propiedad es cada plana de la lista. contiene el nombre de la cosa y el valor de la cosa.
+	* Métodos= son las acciones que pueden hacer el objeto de la lista. 
+	* Bucle `for…in`= Es una forma que tiene el programa de poder hacer una actividad repetitiva pero para los objetos.
+	* Notación de puntos vs notación de corchetes= los puntos son para acceder a los valores de las cosas y asignarles valor.
+         Mientras que los corchetes aparte de acceder y asignar valor, sirven para accder a las cosas y los valores que no sabemos
+         como se llaman o que valor tienen. 
